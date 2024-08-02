@@ -1,0 +1,21 @@
+Steps to solve the problem:
+user enter the numbers of flights
+For each flight user to enter the number of coordinates.
+Store the coordinates in a vector.
+Define a Line2D class to represent line segments between consecutive coordinates of a flight.
+
+Convert Coordinates to Line Segments:
+For each flight, convert the coordinates into Line2D objects representing line segments 
+
+Check for Intersections:
+Compare each pair of line segments to check if they intersect.
+
+Print Non-Intersecting Flight Paths:
+Iterate through the flights and print the paths of those flights that do not have any intersecting line segments.
+
+output:
+there is no intersecting flight paths show in my code i don't know at which place my code in not running
+## Websites and Resources Used:
+
+https://www.naukri.com/code360/library/check-if-two-line-segments-intersect
+https://www.tutorialspoint.com/program-to-find-line-passing-through-2-points-in-cplusplus

@@ -1,0 +1,7 @@
+Use a method to read input values (apple weights) from the user until a termination signal (e.g., -1) is entered.
+Store all the input apple weights in a list or vector.
+Sort the apple weights in descending order to distribute the heaviest apples first.
+Compute the total weight of all apples by summing the values in the list.
+
+references:
+https://www.tutorialspoint.com/cplusplus/index.htm
